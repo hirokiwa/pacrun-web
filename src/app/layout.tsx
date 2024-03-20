@@ -5,20 +5,20 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'pacrun',
+  title: 'PAC-RUN',
   description: 'たくさん走って、たくさん汗かいて、よりハイスコアを目指せ！！',
   openGraph: {
-    title: 'pacrun',
+    title: 'PAC-RUN',
     images: ['https://github.com/hirokiwa/ai-blog-client/assets/89170014/792d6621-f036-4c7d-90d9-1cb4c1915817'],
     description: 'たくさん走って、たくさん汗かいて、よりハイスコアを目指せ！！',
-    siteName: 'pacrun',
+    siteName: 'PAC-RUN',
     locale: 'ja_JP',
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
     images: ['https://github.com/hirokiwa/ai-blog-client/assets/89170014/792d6621-f036-4c7d-90d9-1cb4c1915817'],
-    title: 'pacrun',
+    title: 'PAC-RUN',
     description: 'たくさん走って、たくさん汗かいて、よりハイスコアを目指せ！！',
     creator: 'hiroki_int',
   },
